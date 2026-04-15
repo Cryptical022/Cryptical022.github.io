@@ -1,1 +1,1 @@
-<h1 style="text-align: center">hi i like coding</h1>
+<h1 align="center">hi i like coding</h1>
